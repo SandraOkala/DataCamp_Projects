@@ -16,6 +16,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/sandraokala) project
 | `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
 | `Naïve Bees: Deep Learning with Images` | Build a deep learning model that can automatically detect honey bees and bumble bees in images. |
 | `Predict Stock Trends from News Headlines` | Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight. |
+| `Real-time Insights from Social Media Data` | Analysis of Twitter data and deep dive into hot trends. |
 | `The Hottest Topics in Machine Learning` | Use Natural Language Processing on NIPS papers to uncover the trendiest topics in machine learning research. |
 
 ## R

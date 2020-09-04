@@ -9,7 +9,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/sandraokala) project
 ## Python
 | Project | Description |
 | --- | --- |
-| `American Sign Language Recognition with Deep Learning` | Build a convolutional neural network to classify images of letters from the American Sign Language. |
+| `American Sign Language Recognition with Deep Learning` | Building a convolutional neural network to classify images of letters from the American Sign Language. |
 | `Analysis of Runkeeper Fitness Data` | Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app. |
 | `Book Recommendations from Charles Darwin` | Build a book recommendation system using NLP and the text of books like "On the Origin of Species." |
 | `Classification of Song Genres from Audio Data` | Rock or rap? Apply machine learning methods in Python to classify songs into genres. |

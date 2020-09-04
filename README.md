@@ -9,13 +9,13 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/sandraokala) project
 ## Python
 | Project | Description |
 | --- | --- |
-| `ASL Recognition with Deep Learning` | Build a convolutional neural network to classify images of letters from American Sign Language. |
-| `Analyze Your Runkeeper Fitness Data` | Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app. |
+| `American Sign Language Recognition with Deep Learning` | Build a convolutional neural network to classify images of letters from the American Sign Language. |
+| `Analysis of Runkeeper Fitness Data` | Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app. |
 | `Book Recommendations from Charles Darwin` | Build a book recommendation system using NLP and the text of books like "On the Origin of Species." |
-| `Classify Song Genres from Audio Data` | Rock or rap? Apply machine learning methods in Python to classify songs into genres. |
+| `Classification of Song Genres from Audio Data` | Rock or rap? Apply machine learning methods in Python to classify songs into genres. |
 | `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
 | `Naïve Bees: Deep Learning with Images` | Build a deep learning model that can automatically detect honey bees and bumble bees in images. |
-| `Predict Stock Trends from News Headlines` | Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight. |
+| `Prediction of Stock Trends from News Headlines` | Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight. |
 | `Real-time Insights from Social Media Data` | Analysis of Twitter data and deep dive into hot trends. |
 | `The Hottest Topics in Machine Learning` | Use Natural Language Processing on NIPS papers to uncover the trendiest topics in machine learning research. |
 
@@ -27,7 +27,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/sandraokala) project
 | `Clustering Heart Disease Patient Data` | K-means and hierarchical clustering algorithms to help doctors inform treatment for heart disease patients.|
 | `Dr. Semmelweis and the Discovery of Handwashing` | Reanalysis of the the data behind one of the most important discoveries of modern medicine: handwashing using dplyr and ggplot2|
 | `Drunken Datetimes in Ames, Iowa` | Applying "Working with Dates and Times in R" skills to breathalyzer data from Ames, Iowa using lubridate, dplyr, and ggplot2 packages. |
-| `Exploring the Kaggle Data Science Surve` | Examining the top tools Kaggle participants use for data science and machine learning using the tidyverse package. |
+| `Exploring the Kaggle Data Science Survey` | Examining the top tools Kaggle participants use for data science and machine learning using the tidyverse package. |
 | `Functions for Food Price Forecasts` | Writing functions to forecast time series of food prices in Rwanda using readr, dplyr, ggplot2, lubridate, and forecast packages. |
 | `Health Survey Data Analysis of BMI` | Analysis of health survey data to determine how BMI is associated with physical activity and smoking using the the NHANES R package. |
 | `Importing and Cleaning Data` | Applying importing and data cleaning skills to real-world soccer data using Tidyverse. |

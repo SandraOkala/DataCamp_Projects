@@ -12,7 +12,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/sandraokala) project
 | `American Sign Language Recognition with Deep Learning` | Building a convolutional neural network to classify images of letters from the American Sign Language. |
 | `Analysis of Runkeeper Fitness Data` | Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app. |
 | `Book Recommendations from Charles Darwin` | Build a book recommendation system using NLP and the text of books like "On the Origin of Species." |
-| `Classification of Song Genres from Audio Data` | Rock or rap? Apply machine learning methods in Python to classify songs into genres. |
+| `Classification of Song Genres from Audio Data` | Rock or rap? Using machine learning methods to classify songs into genres. |
 | `Give Life: Predict Blood Donations` | Build a binary classifier to predict if a blood donor is likely to donate again. |
 | `Naïve Bees: Deep Learning with Images` | Build a deep learning model that can automatically detect honey bees and bumble bees in images. |
 | `Prediction of Stock Trends from News Headlines` | Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight. |

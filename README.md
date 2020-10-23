@@ -23,6 +23,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/sandraokala) project
 | Project | Description |
 | --- | --- |
 | `A Text Analysis of Trump's Tweets` | Applying text mining to Donald Trump's tweets to confirm if he writes the (angrier) Android half. |
+| `A Visual History of Nobel Prize Winners` | Exploring a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
 | `Bad passwords and the NIST guidelines` | Checking what passwords fail to conform to the National Institute of Standards and Technology password guidelines. |
 | `Classify Suspected Infection in Patients` | Classification of patients with suspected infections using data.table and electronic health records. |
 | `Clustering Heart Disease Patient Data` | K-means and hierarchical clustering algorithms to help doctors inform treatment for heart disease patients.|

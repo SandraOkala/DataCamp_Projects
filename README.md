@@ -31,6 +31,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/sandraokala) project
 | `Drunken Datetimes in Ames, Iowa` | Applying "Working with Dates and Times in R" skills to breathalyzer data from Ames, Iowa using lubridate, dplyr, and ggplot2 packages. |
 | `Exploring the Kaggle Data Science Survey` | Examining the top tools Kaggle participants use for data science and machine learning using the tidyverse package. |
 | `Functions for Food Price Forecasts` | Writing functions to forecast time series of food prices in Rwanda using readr, dplyr, ggplot2, lubridate, and forecast packages. |
+| `Going Down to South Park: A Text Analysis` | Analysis of the dialog and IMDB ratings of 287 South Park episodes.|
 | `Health Survey Data Analysis of BMI` | Analysis of health survey data to determine how BMI is associated with physical activity and smoking using the the NHANES R package. |
 | `Importing and Cleaning Data` | Applying importing and data cleaning skills to real-world soccer data using Tidyverse. |
 | `Kidney Stones and Simpson's Paradox` | Logistic regression analysis to determine which treatment procedure is more effective for kidney stone removal. |

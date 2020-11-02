@@ -27,6 +27,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/sandraokala) project
 | `Bad passwords and the NIST guidelines` | Checking what passwords fail to conform to the National Institute of Standards and Technology password guidelines. |
 | `Classify Suspected Infection in Patients` | Classification of patients with suspected infections using data.table and electronic health records. |
 | `Clustering Heart Disease Patient Data` | K-means and hierarchical clustering algorithms to help doctors inform treatment for heart disease patients.|
+| `Degrees That Pay You Back` | Exploring the salary potential of college majors with a k-means cluster analysis.|
 | `Dr. Semmelweis and the Discovery of Handwashing` | Reanalysis of the the data behind one of the most important discoveries of modern medicine: handwashing using dplyr and ggplot2|
 | `Drunken Datetimes in Ames, Iowa` | Applying "Working with Dates and Times in R" skills to breathalyzer data from Ames, Iowa using lubridate, dplyr, and ggplot2 packages. |
 | `Exploring the Kaggle Data Science Survey` | Examining the top tools Kaggle participants use for data science and machine learning using the tidyverse package. |
